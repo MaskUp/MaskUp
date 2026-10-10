@@ -8,6 +8,8 @@
 
 <p align="center">
   <a href="https://sheley.org/"><img src="https://img.shields.io/badge/Website-sheley.org-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://latestat.com/"><img src="https://img.shields.io/badge/latest@-latestat.com-2563eb?style=for-the-badge&logo=rss&logoColor=white" alt="latestat.com"></a>
+  <a href="https://oldpcguy.com/"><img src="https://img.shields.io/badge/OldPCGuy-oldpcguy.com-64748b?style=for-the-badge&logo=windows&logoColor=white" alt="oldpcguy.com"></a>
   <a href="https://www.linkedin.com/in/brandonsheley/"><img src="https://img.shields.io/badge/LinkedIn-brandonsheley-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -16,6 +18,20 @@
 ### 👨‍💻 About
 
 I've been building things on the web for over 20 years — starting with forum software and SEO in the mid-2000s, and these days leaning more toward self-hosting, virtualization, and digital archiving.
+
+---
+
+### 🌐 My Sites
+
+| Site | What it is |
+| :--- | :--- |
+| 🧑‍💻 [**sheley.org**](https://sheley.org/) | My home base: IT toolkit, homelab write-ups, hardware price trackers and a bit of forum history |
+| 📦 [**latestat.com**](https://latestat.com/) | Latest versions and end-of-life dates for 480+ products, with a free API, `curl` output, README badges and calendar feeds · [repo](https://github.com/MaskUp/latestat) |
+| 🖥️ [**oldpcguy.com**](https://oldpcguy.com/) | Plain-English guides for keeping an old Windows PC or laptop running: Windows 10 after support, speed-ups, Linux, buying used and recycling |
+
+```console
+$ curl latestat.com/php    # is my PHP still supported?
+```
 
 ---
 
@@ -84,5 +100,5 @@ Before IT was my full-time career, I spent years in the online forum world:
 ---
 
 <p align="center">
-  <sub>🌐 <a href="https://sheley.org/">sheley.org</a> · 💼 <a href="https://www.linkedin.com/in/brandonsheley/">LinkedIn</a></sub>
+  <sub>🌐 <a href="https://sheley.org/">sheley.org</a> · 📦 <a href="https://latestat.com/">latestat.com</a> · 🖥️ <a href="https://oldpcguy.com/">oldpcguy.com</a> · 💼 <a href="https://www.linkedin.com/in/brandonsheley/">LinkedIn</a></sub>
 </p>
