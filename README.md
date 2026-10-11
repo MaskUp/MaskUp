@@ -35,6 +35,25 @@ $ curl latestat.com/php    # is my PHP still supported?
 
 ---
 
+### 📊 Live Price Trackers
+
+Real listings, not MSRP — each tracker is sorted by its own $/unit "best value" metric.
+
+| Tracker | Tracks |
+| :--- | :--- |
+| 💾 [Disk & SSD](https://sheley.org/disk-prices/) | $/TB across new, used, and renewed drives |
+| 🧠 [RAM](https://sheley.org/ram-prices/) | Desktop, laptop, and server ECC memory |
+| 🎮 [GPU](https://sheley.org/gpu-prices/) | For gaming and local-LLM builds |
+| 🗄️ [NAS Enclosures](https://sheley.org/nas-prices/) | Synology, QNAP, TerraMaster, ASUSTOR, UGREEN |
+| 🖥️ [Servers](https://sheley.org/server-prices/) | Used enterprise rack/tower servers |
+| 🔌 [Network Switches](https://sheley.org/switch-prices/) | Managed/unmanaged, by $/port |
+| 📦 [SFF / Mini PCs](https://sheley.org/sff-prices/) | Small-form-factor Proxmox nodes |
+| ☀️ [Solar Panels](https://sheley.org/solar-prices/) | DIY panel pricing + real install-cost benchmarks |
+
+📋 [Browse all 8 trackers →](https://sheley.org/trackers/)
+
+---
+
 ### 🔧 Tech I Work With
 
 **Infrastructure & Systems**
@@ -72,7 +91,26 @@ Everything runs on **Proxmox** — a mix of VMs and LXC containers.
 - 📥 **Pinchflat** — automated YouTube channel archiving
 - 💾 **3-copy backups**, because *one is none, two is one*
 
-📖 [Media Lab setup](https://sheley.org/media-lab.php) · [Data hoarding & archival](https://sheley.org/data-hoarding.php)
+📖 [Media Lab setup](https://sheley.org/media-lab/) · [Data hoarding & archival](https://sheley.org/data-hoarding/)
+
+---
+
+### 🖥️ Proxmox Guides & Comparisons
+
+| Page | What's In It |
+| :--- | :--- |
+| 🏠 [Home Assistant OS on Proxmox](https://sheley.org/home-assistant-setup-guide/) | VM setup, USB coordinator passthrough, snapshot strategy |
+| 💾 [TrueNAS Scale on Proxmox](https://sheley.org/truenas-scale-setup-guide/) | HBA vs. by-ID disk passthrough, pool creation |
+| 🧱 [pfSense & OPNsense on Proxmox](https://sheley.org/pfsense-opnsense-setup-guide/) | Router/firewall virtualization |
+| 🛡️ [Pi-hole & AdGuard Home on Proxmox](https://sheley.org/pihole-adguard-setup-guide/) | Network-wide ad blocking as an LXC |
+| 🐳 [Docker on Proxmox & Windows](https://sheley.org/docker-setup-guide/) | LXC vs. VM, Docker Desktop, 50-command cheat sheet |
+| 🧭 [PegaProx Setup Guide](https://sheley.org/pegaprox-setup-guide/) | Multi-cluster Proxmox/XCP-ng dashboard |
+| ⚓ [Dockhand Setup Guide](https://sheley.org/dockhand-setup-guide/) | Portainer-alternative Docker dashboard |
+| 📰 [Proxmox Updates](https://sheley.org/proxmox-updates/) | Release/news roundup |
+| ⚖️ [Best Mini PC for Proxmox](https://sheley.org/best-mini-pc-for-proxmox/) | Real pricing across 3 hardware tiers |
+| 🆚 [LXC vs VM on Proxmox](https://sheley.org/lxc-vs-vm-proxmox/) | Real CVEs, a debunked benchmark, a decision framework |
+| 🆚 [Proxmox vs ESXi](https://sheley.org/proxmox-vs-esxi/) | Post-Broadcom licensing, and where each one still wins |
+| 🍊 [Orange Pi 6 Review](https://sheley.org/orange-pi-6-review/) | Researched spec breakdown of the newer Arm SBC |
 
 ---
 
@@ -80,10 +118,10 @@ Everything runs on **Proxmox** — a mix of VMs and LXC containers.
 
 | Guide | What's In It |
 | :--- | :--- |
-| 🛠️ [The Essential IT Toolkit](https://sheley.org/it-tools.php) | 54 tools I actually use, sorted by category |
-| 🤖 [AI Prompting Guide](https://sheley.org/ai-prompt.php) | Beginner-friendly intro to prompts, chatbots, and agents |
-| 🔌 [Public API Finder](https://sheley.org/api-finder.php) | Searchable directory of free public APIs |
-| ♻️ [E-Waste & Metal Recovery](https://sheley.org/ewaste-recycling.php) | Responsible recycling + local pickup in Topeka |
+| 🛠️ [The Essential IT Toolkit](https://sheley.org/it-tools/) | 54 tools I actually use, sorted by category |
+| 🤖 [AI Prompting Guide](https://sheley.org/ai-prompt/) | Beginner-friendly intro to prompts, chatbots, and agents |
+| 🔌 [Public API Finder](https://sheley.org/api-finder/) | Searchable directory of free public APIs |
+| ♻️ [E-Waste & Metal Recovery](https://sheley.org/ewaste-recycling/) | Responsible recycling + local pickup in Topeka |
 
 ---
 
@@ -95,7 +133,7 @@ Before IT was my full-time career, I spent years in the online forum world:
 - Ran **Admin-Talk.com**, a webmaster forum for community administrators
 - Was one of six core members of **Think Big Topeka** — the 2010 grassroots campaign that got our city temporarily renamed "Google, Kansas," and prompted Google to rename its own homepage "Topeka" for April Fools' Day
 
-📖 [vBulletin & forum admin history](https://sheley.org/vbulletin-history.php) · [The Think Big Topeka story](https://sheley.org/thinkbigtopeka.php)
+📖 [vBulletin & forum admin history](https://sheley.org/vbulletin-history/) · [The Think Big Topeka story](https://sheley.org/thinkbigtopeka/)
 
 ---
 
